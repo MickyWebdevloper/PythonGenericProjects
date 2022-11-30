@@ -1,0 +1,5 @@
+1. pip install pdf2docx
+2. pip install docx2pdf
+
+requirements.txt ( pip install pdf2docx )
+docs ( 'https://dothinking.github.io/pdf2docx/quickstart.convert.html' )
